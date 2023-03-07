@@ -1,4 +1,4 @@
-# JabborovRoboCoder ✌🏻
+# JabborovRoboCoder ✌🏻😉
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div>
@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-to my GitHub profile!
+to my GitHub profile
 </div>
 
 <hr>
