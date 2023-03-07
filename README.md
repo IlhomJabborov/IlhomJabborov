@@ -1,16 +1,28 @@
-### Hi there 👋
+# JabborovRoboCoder
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 
-<!--
-**JabborovRoboCoder/JabborovRoboCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Xush kelibsiz" align="center">
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+to my GitHub profile!
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<div align="center">
+<b><p>Arduino IDE , RoboTrack MRT , PostgreSQL , Python Fundamental , HTML5 , Bootstrap4</p><b>
+<img src="https://www.inventateq.com/assets/python/small.gif" alt=" Mehmonlar kitobi" align="center">
+</div>
+
+<hr>
+
+<div align="center">
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Tabassum" align="center">
+</div>
+</div>
