@@ -16,7 +16,7 @@ to my GitHub profile
 <div align="center">
 <b><p>Arduino IDE , RoboTrack MRT , PostgreSQL , Python Fundamental , HTML5 , Bootstrap4 , PHP Fundamental</p><b>
 <img src="https://www.inventateq.com/assets/python/small.gif" alt=" Mehmonlar kitobi" align="center"><br><br>
-  <p>My personal site : https://jabborov.netlify.app</p>
+  <p>My personal site : </p>
 </div>
 
 <hr>
