@@ -15,7 +15,7 @@ to my GitHub profile
 
 <div align="center">
 <img src="https://www.inventateq.com/assets/python/small.gif" alt=" Mehmonlar kitobi" align="center"><br><br>
-  <a href="[https://www.example.com](https://www.linkedin.com/in/ilhomjabborov8)" target="_blank">My Portfolio</a>
+  <a href="https://www.linkedin.com/in/ilhomjabborov8" target="_blank">My Portfolio</a>
 </div>
 
 <hr>
