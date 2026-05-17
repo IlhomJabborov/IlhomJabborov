@@ -15,7 +15,7 @@ to my GitHub profile
 
 <div align="center">
 <img src="https://www.inventateq.com/assets/python/small.gif" alt=" Mehmonlar kitobi" align="center"><br><br>
-  <p>My personal site : https://ilhom.tech </p>
+  <p> [Portfolio](https://www.linkedin.com/in/ilhomjabborov8) </p>
 </div>
 
 <hr>
