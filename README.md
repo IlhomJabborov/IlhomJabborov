@@ -14,7 +14,7 @@ to my GitHub profile
 <hr>
 
 <div align="center">
-<img src="https://www.inventateq.com/assets/python/small.gif" alt=" Mehmonlar kitobi" align="center"><br><br>
+<img src="https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt=" Mehmonlar kitobi" align="center"><br><br>
   <h3><a href="https://www.linkedin.com/in/ilhomjabborov8" target="blank">My Portfolio</a></h3>
 </div>
 
